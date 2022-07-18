@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FishingApp</string>
+    <string name="add_event_name">Planowanie wyprawy</string>
+    <string name="calendar_name">Kalendarz</string>
+    <string name="events_list_name">Wyprawy</string>
+    <string name="fish_detail_name">Informację o rybie</string>
+    <string name="add_fish_name">Dodawanie ryby</string>
+    <string name="fish_list_name">Lista ryb</string>
+
+    <string name="action_dayInformation">Wybranie dzisiejszego dnia</string>
+    <string name="action_calendar">Wybranie konkretnego dnia</string>
+    <string name="action_events">Terminy zaplanowanych wypraw</string>
+    <string name="action_archiver">Lista zarchiwizowanych połowów</string>
+
+    <string name="edit_text_title">Tytuł</string>
+    <string name="edit_text_type">Gatunek</string>
+    <string name="edit_event_text_type">Uwagi</string>
+    <string name="edit_text_date">Data</string>
+    <string name="edit_text_length">Długość</string>
+    <string name="edit_text_weight">Waga</string>
+    <string name="edit_text_location">Miejsce</string>
+    <string name="text_add_image">DODAJ ZDJĘCIE</string>
+    <string name="btn_text_save">ZAPISZ</string>
+
+    <string name="note_text_no_fish_found">Brak dodanych ryb</string>
+    <string name="note_text_no_event_found">Brak zaplanowanych wypraw</string>
+
+    <string name="image_content_description">image</string>
+
+    <string name="please_wait">Proszę czekać&#8230;</string>
+</resources>

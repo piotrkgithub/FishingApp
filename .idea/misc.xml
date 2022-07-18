@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable-v24/ic_action_add_24dp.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable-v24/ic_delete_white_24dp.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable-v24/ic_edit_white_24dp.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_baseline_cloud_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_baseline_event_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_baseline_event_available_24.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/ic_refresh_24dp.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/shape_button_rounded.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/drawable/shape_image_view_border.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_add_event.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_add_fish.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_day.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_events_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_fish_detail.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_fish_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_fishes_list.xml" value="0.27898550724637683" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/card_day_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/card_post.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/item_event.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/layout/item_fish.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/FishingApp/app/src/main/res/menu/menu_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="13" project-jdk-type="JavaSDK" />
+</project>
